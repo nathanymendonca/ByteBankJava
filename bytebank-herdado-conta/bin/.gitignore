@@ -7,3 +7,5 @@
 /TesteContas.class
 /TesteTributaveis.class
 /Tributavel.class
+/SaldoInsuficienteException.class
+/TesteSaca.class
