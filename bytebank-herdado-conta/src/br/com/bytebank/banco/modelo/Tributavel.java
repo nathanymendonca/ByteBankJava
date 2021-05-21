@@ -1,4 +1,6 @@
+package br.com.bytebank.banco.modelo;
 //definirá a assinatura deste método
+
 public interface Tributavel {
 
 	double getValorImposto();

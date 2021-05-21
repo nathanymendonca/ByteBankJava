@@ -1,3 +1,4 @@
+package br.com.bytebank.banco.modelo;
 //herda métodos e atributos, mas não herda o construtor, tem que chamar (linha5)
 public class ContaCorrente extends Conta implements Tributavel {
 	

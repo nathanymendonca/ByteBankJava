@@ -1,4 +1,8 @@
+package br.com.bytebank.banco.modelo;
+
 //Todos que implementaram a interface Tributavel podem ser utilizados, por meio deste método
+
+//br.com.bytebank.banco.modelo => Full Qualified Name = FQN
 public class CalculadorDeImposto {
 	  private double totalImposto;
 
