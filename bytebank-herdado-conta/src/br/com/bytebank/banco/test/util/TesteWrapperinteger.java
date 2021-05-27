@@ -1,9 +1,9 @@
-package br.com.bytebank.banco.test;
+package br.com.bytebank.banco.test.util;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Teste {
+public class TesteWrapperinteger {
 
 	public static void main(String[] args) {
 
